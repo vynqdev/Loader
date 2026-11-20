@@ -2,5 +2,8 @@
 
 <p align="center">
     Welcome to NuvinaUD Services!
-    you can buy your license on your [WebSite](https://nuvina.xyz/) or [Discord](https://discord.gg/nuvinaud)
+    <br>
+    You can buy your license on our
+    <a href="https://nuvina.xyz/">Website</a> or
+    <a href="https://discord.gg/nuvinaud">Discord</a>.
 </p>
