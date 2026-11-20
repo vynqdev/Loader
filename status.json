@@ -1,5 +1,18 @@
 {
-  "Roblox External": "online",
-  "Temp Woofer": "online",
-  "Nuvina OGFN External": "online"
+  "Roblox External": {
+    "status": "online",
+    "version": "1.3.8"
+  },
+  "Roblox External CrazyHub": {
+    "status": "online",
+    "version": "1.3.8"
+  },
+  "Temp Woofer": {
+    "status": "updating",
+    "version": "1.0.2"
+  },
+  "Nuvina OGFN External": {
+    "status": "online",
+    "version": "2.0.3"
+  }
 }
